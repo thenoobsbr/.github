@@ -1,2 +1,4 @@
-# thenoobsbr
-Here's a little bit about us!
+# TheNoobs
+<div align="right">
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=github.com/thenoobsbr)
+</div>
